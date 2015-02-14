@@ -33,9 +33,9 @@
    font-family: Georgia, serif;
    font-size: 10px;
    position: relative;
+   margin-right:40px;
    color: #fff;
-   margin-right:30px;
-   padding:5px;
+   padding:10px;
    text-align: center;
 }
 .view a.info {                /* read more */
